@@ -1,0 +1,6 @@
+:root {
+  color-scheme: light;
+  --bg: #f4fbfa; --fg: #12302f; --muted: #5d7b79; --card: #ffffff; --line: #d6e9e6;
+  --accent: #14a08f; --accent-fg: #ffffff; --radius: 14px;
+  --font-body: 'DM Sans', system-ui, sans-serif; --font-display: 'DM Serif Display', Georgia, serif;
+}

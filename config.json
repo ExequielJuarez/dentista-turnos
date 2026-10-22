@@ -1,0 +1,15 @@
+{
+  "name": "Dental Lumina",
+  "whatsapp": "5491155552345",
+  "address": "Av. Santa Fe 2450, 3° B, CABA",
+  "hoursText": "Lun a Vie · 9 a 18 hs",
+  "adminPassword": "cambiar-esta-clave",
+  "schedule": { "dayStart": "08:00", "dayEnd": "19:00", "step": 30, "from": "09:00", "to": "18:00", "openDays": [1, 2, 3, 4, 5] },
+  "services": [
+    { "name": "Consulta y diagnóstico", "price": 15000, "minutes": 30, "desc": "Revisión completa y plan de tratamiento." },
+    { "name": "Limpieza dental", "price": 28000, "minutes": 45, "desc": "Profilaxis y remoción de sarro." },
+    { "name": "Blanqueamiento", "price": 120000, "minutes": 60, "desc": "Sonrisa más clara en una sesión." },
+    { "name": "Ortodoncia (control)", "price": 25000, "minutes": 30, "desc": "Seguimiento de brackets o alineadores." },
+    { "name": "Urgencia dental", "price": 35000, "minutes": 30, "desc": "Dolor, fractura o infección." }
+  ]
+}
